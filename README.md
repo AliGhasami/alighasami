@@ -11,7 +11,7 @@
 - 🔭 الان روی **[پروژه فعلیت]** کار می‌کنم
 - 🌱 در حال یادگیری **[تکنولوژی جدید]**
 - 💬 درباره **Vue, JavaScript, Frontend** بپرس
-- 📫 ارتباط: **sedmedgh.dev@gmail.com**
+- 📫 ارتباط: **alighasami@gmail.com**
 
 ---
 
