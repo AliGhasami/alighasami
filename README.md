@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm [اسمت]</h1>
+<h1 align="center">Hi 👋, I'm Ali Ghasami</h1>
 <h3 align="center">Frontend Developer | Vue.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AliGhasami&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 الان روی **[پروژه فعلیت]** کار می‌کنم
-- 🌱 در حال یادگیری **[تکنولوژی جدید]**
-- 💬 درباره **Vue, JavaScript, Frontend** بپرس
-- 📫 ارتباط: **alighasami@gmail.com**
+- 🔭 I'm currently working on **Vue.js projects**
+- 🌱 I'm currently learning **new web technologies**
+- 💬 Ask me about **Vue, JavaScript, Frontend**
+- 📫 Reach me at **alighasami@gmail.com**
 
 ---
 
@@ -31,17 +31,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliGhasami&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhasami&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliGhasami&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect
+### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alighasami@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliGhasami)
